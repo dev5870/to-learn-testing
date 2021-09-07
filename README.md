@@ -13,3 +13,9 @@
 ### [fundamental-theory](fundamental-theory)
 
 Фундаментальные основы тестирования (определения, виды, классификации...)
+
+---
+
+### [epam-course](epam-course)
+
+Курсы Epam для тестировщиков
